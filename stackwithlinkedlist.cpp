@@ -79,3 +79,4 @@ int main() {
    }while(pilih!=4); 
       return 0;
 }  
+https://iteraacid-my.sharepoint.com/personal/ridho_magribi_staff_itera_ac_id/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fridho%5Fmagribi%5Fstaff%5Fitera%5Fac%5Fid%2FDocuments%2Fsoal%20spkwt%2Fdb%5Fdonor%5Fplasma%2Esql&parent=%2Fpersonal%2Fridho%5Fmagribi%5Fstaff%5Fitera%5Fac%5Fid%2FDocuments%2Fsoal%20spkwt&ga=1
